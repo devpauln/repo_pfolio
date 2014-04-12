@@ -1,0 +1,14 @@
+/* Fonts CSS : Unknown */
+
+@font-face{
+	font-family: 'Segoe UI';
+	src:url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot'),
+		url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot?#iefix') format('embedded-opentype')
+		url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.woff') format('woff')
+		url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.ttf') format('truetype')
+		url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.svg#web') format('svg');
+	font-weight:normal;
+	font-style:normal
+}
+
+/* End */

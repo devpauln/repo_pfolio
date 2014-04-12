@@ -1,0 +1,144 @@
+/* Metro Bootstrap UI : Unknown */
+
+@import url('fonts.css');
+@import url('reset.css');
+
+/* Overrided CSS */
+
+h1 {
+	font-size:64px;
+}
+h2 {
+	font-size:54px;
+}
+h3 {
+	font-size:44px;
+}
+h4 {
+	font-size:34px;
+}
+h5 {
+	font-size:24px;
+}
+h6 {
+	font-size:14px;
+}
+code, pre{
+	border-radius:0 !important;
+	padding:2px 4px !important;
+	font-size:90% !important;
+}
+th{
+	font-weight:300 !important;
+	font-size:24px;
+}
+td{
+	font-size:12px !important;
+}
+.nav-pills>li>a{
+	border-radius:0px !important;
+}
+.label{
+	border-radius:0px !important;
+	padding:5px 12px;
+	font-weight:300;
+}
+.badge{
+	border-radius:0px !important;
+	line-height:1;
+	font-weight:300;
+}
+.headings{
+	padding:10px;
+	background:#338BFF;
+	color:#fff;
+}
+.head-tip{
+	padding:10px 2px !important;
+	border-left:7px solid #338BFF;
+}
+.form-control{
+	border-radius:0px !important;
+	-webkit-box-shadow:none !important;
+	-box-shadow:none !important;
+}
+.jumbotron p{
+	line-height:250% !important;
+}
+.btn{
+	border-radius:0px !important;
+	-webkit-transition: all ease-in-out .15s, box-shadow ease-in-out .15s;
+	transition: all ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.btn-large-padding{
+	padding:8px 35px !important;
+}
+.btn-small-padding{
+	padding:8px 16px !important;
+}
+.foot-divide{
+	width:100%;
+	min-height:100px;
+	background:#F2E2BB;
+	border-top:1px solid #F2D285;
+	margin-top:40px;
+}
+.center-text{
+	text-align:center;
+}
+.pushed-down-halfway{
+	padding-top:85px;
+}
+.pushed-down{
+	padding-top:60px;
+	padding-bottom:80px;
+}
+.pushed-down-nt{
+	padding-top:10px;
+	padding-bottom:80px;
+}
+.gray-text{
+	color:#666;
+}
+.head{
+	width:100%;
+	height:auto;
+	background:#F2E2BB;
+	border-bottom:1px solid #F2D285;
+
+}
+.more-padding-top{
+	padding-top:40px;
+}
+.left{
+	text-align:left;
+}
+.right{
+	text-align:right;
+}
+.center{
+	text-align:center;
+}
+
+/*CONTENT*/
+.content-wrap{
+	min-height:100%;
+	height:auto;
+}
+.content-wrap:after{
+	display:block;
+	content: "";
+}
+.centerized{
+	margin:auto;
+	width:980px;
+}
+.section-box{
+	margin:80px auto;
+}
+#title{
+	letter-spacing:10px;
+}
+.thumbnail{
+	margin:30px auto;
+}
